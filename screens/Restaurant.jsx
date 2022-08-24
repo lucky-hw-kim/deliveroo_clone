@@ -48,8 +48,8 @@ const Restaurant = () => {
       long,
       lat,
     }))
-  },[dispatch])
-  
+  },[])
+
   useLayoutEffect(() => {
     navigation.setOptions({
       headerShown: false,
