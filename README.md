@@ -3,7 +3,8 @@
 <p id="description">The Deliveroo clone app is a food delivery app that enables users to order and receive food from their favorite restaurants. The app offers a convenient fast and easy way for users to get their food delivered to them. The app also allows users to track their order so they can see how long it will take for their food to arrive. The app will need to be integrated with a restaurant's ordering system and will need to have a delivery management component to track and manage deliveries.</p>
 
 <h2>🚀 Demo</h2>
-[exp://exp.host/@doggod369/deliveroo?release-channel=default]exp://exp.host/@doggod369/deliveroo?release-channel=default
+
+[exp://exp.host/@doggod369/deliveroo?release-channel=default](exp://exp.host/@doggod369/deliveroo?release-channel=default)
 
 *Try it on mobile device
 
